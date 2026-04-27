@@ -20,13 +20,26 @@ El reconocimiento pasivo, al contrario del activo, evita la interaccion con el o
 
 2. ¿Qué son los exploits, payloads y post-exploits?, por favor dar dos ejemplos de los conceptos expuestos.
 
+Los tres conceptos hacen parte de los pasos que se deben realizar al momento de realizar un ataque informatico.
+
+Los exploits se aprovechan de un error o bug ya sea en el sistema operativo, o en la aplicación. Una vez se identifica la vulnerabilidad, el exploit toma control. Por ejemplo los scripts que inyecion de SQLy otros programas que atacan vulnerbilidades en SMB como EternalBlue
+
+El payload es el paso siguiente una vez se ingresa, es lo que exploit transporta y ejecuta cuando se ingresa al sistema. Un ejemplo puede ser el ransoware y reverse shell.
+
+Post-Exploit son las acciones realizadas después de comprometer el sistema para mantener el acceso, escalar privilegios o extraer datos. como ejemplos podrian ser Mimikatz o la creación de un nuevo usuario con permisos de administrador ya que puedo ser root (comprobar con whoami). 
+
 3. ¿Para que sirve metasploit y cómo lo puedo usar en entornos reales para la visualización de diferentes eventos anormales?
+
+saa
 
 4. ¿Cúales son las diferencias entre la criptografía clásica, cuántica y post-cuántica?
 
+
 5. ¿Qué es el blockchain?, ¿Para qué se utiliza actualmente en las criptomonedas?
 
+
 6. ¿Qué protocolos y mecanismos de seguridad se usan en los sistemas biométricos de autenticación?
+
 
 Parte 2:
 
