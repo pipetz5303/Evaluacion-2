@@ -44,9 +44,13 @@ Pensaria uno que la post-cuantica seria un paso mas adelante de la cuantica, en 
 
 5. ¿Qué es el blockchain?, ¿Para qué se utiliza actualmente en las criptomonedas?
 
+El blockchain es una cadena de bloques que esta descentralizado, lo que permite su seguridad. El blockchain se caracteriza porque cuando el dato se escribe en el bloque y la cadena, no puede ser modificado ni borrado . Como esta en varios nodods o computadores, se tienen copias del registro para controlar que no se cambie. Entonces su seguridad se basa en que añades una huella digital unica del bloque anterior a la cadena, si cambias algo en un bloque, la cadena cambiara y al no ser la misma cadena en el bloque 2, enviaria una alarma de fraude. Se utliza en las transacciones de criptomonedas por sus facilidades en transferencias, seguridad y validacion. Ya que no se necesita un banco que centralice la informacion porque todos los nodos tienen su cadena para verificar, lo que hace transparente y seguro.
 
 6. ¿Qué protocolos y mecanismos de seguridad se usan en los sistemas biométricos de autenticación?
 
+Existen varios como los mecanismos de proteccion de plantillas, no se guardan imagenes sino que se generan una plantilla con la informacion. Esta la biometria cancelable en caso de ser hackeada la base datos. Un mecanismo de seguridad es la deteccion de vitalidad para evitar dar accesos con fotos, mascaras 3D. El mecanismo analiza textutas, bordes, reflejos para saber si es tejido o imagenes adicionando por ejemplo movimientos al cuerpo como parpadear o acercarse.
+
+El protocolo FIDO2 permite la autenticacion de la huella en el celular pero solo envia una firma digital del celular. Con eso la huella permanece en el celular sin salir por seguridad. Utilizan tambien protocolos de emparejamiento seguro para evitar en el medio. A nivel de hardware hay un mecanismo que es match-on-card donde la comparacion y verificacion de la huella se hace en el chip de sensor para que no se almacene en la RAM y pueda ser extraida.
 
 Parte 2:
 
