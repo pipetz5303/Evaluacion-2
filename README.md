@@ -30,10 +30,17 @@ Post-Exploit son las acciones realizadas después de comprometer el sistema para
 
 3. ¿Para que sirve metasploit y cómo lo puedo usar en entornos reales para la visualización de diferentes eventos anormales?
 
-saa
+Metasploit sirve para encontrar, explorar y confirmar las vulnerabilidades que puede haber en un sistema o redes. Nos ayuda a verificar que tan protegido estamos y como podemos prevenir los ataques. Lo podemos usar para realizar escaneo ya sea de dispositivos, servicios y sistemas operativos de red. Aca reconcer algun dispositivo diferente o anormal no alerta. 
+
+Adicional metasploit contiene diferentes base de datos con exploits para poder usarse, ingresar, escalar privilegiosm, realizar payloads para controlar diferentes opciones.
 
 4. ¿Cúales son las diferencias entre la criptografía clásica, cuántica y post-cuántica?
 
+Las diferencias son que la criptografia clasica, es la que usamos actualmente en la mayoria de nuestros sistemas, en especial internet. Utiliza  una serie de logaritmos, y numeros primos grantes que si un computador intenta resolverlos le tomaria miles de años, eso brinda cierta seguridad. Podriamos decir que aun es muy segura nuestro sistema actual clasico. 
+
+Pero, abre la puerto a la criptografia cuantica, la cual ya usa leyes de fisica cuantica, y en especial el principio de incertidumbre de Heisenberg y el entrelazamiento cuantico. Al observar la clave, esa observacion altera el estado de las particulas, alterando el dato a tomar. Se seguridad es demasiado alta. 
+
+Pensaria uno que la post-cuantica seria un paso mas adelante de la cuantica, en realidad es un proceso que busca que ni los equipos o computadores cuanticos, puedes descifrarlos porque generan formular que los costaria igual de años de realziar. Busca blindarse frente a algoritmos que son potentes con la criptografia de nuestros dias.
 
 5. ¿Qué es el blockchain?, ¿Para qué se utiliza actualmente en las criptomonedas?
 
